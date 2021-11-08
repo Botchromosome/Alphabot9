@@ -1,5 +1,5 @@
 {
-  "name": "Alphabot",
+  "name": "botchm",
   "version": "9.0.9",
   "description": "WhatsApp bot",
   "zeeone": "zeeone.js",
@@ -51,7 +51,7 @@
   "keywords": [
     "botwea"
   ],
-  "author": "ZEEONE",
+  "author": "Ajur",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zeeoneofc"
